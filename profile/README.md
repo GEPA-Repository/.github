@@ -1,6 +1,6 @@
 ## Hi there 👋 we are GEPA
 ### We create Automation Technology
-
+We at GEPA have created an IOT Computer called WEMC that automates Irrigation. WEMC is a modularised computing system that is more like a personal computer for the farm.
 <!--
 
 **Here are some ideas to get you started:**
